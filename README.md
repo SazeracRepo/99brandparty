@@ -2,8 +2,8 @@
 Franklin site implementing: https://99brandparty.com
 
 ## Environments
-- Preview: https://main--sazerac-99brandparty--hlxsites.hlx.page/
-- Live: https://main--sazerac-99brandparty--hlxsites.hlx.live/
+- Preview: https://main--99brandparty--sazeracrepo.hlx.page
+- Live: https://main--99brandparty--sazeracrepo.hlx.live
 
 ## Installation
 
