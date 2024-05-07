@@ -1,7 +1,7 @@
 version: 1
 sitemaps:
   default:
-    origin: https://main--sazerac-99brandparty--hlxsites.hlx.live
+    origin: https://www.99brandparty.com
     source: /query-index.json
     destination: /sitemap.xml
     lastmod: YYYY-MM-DD
